@@ -11,9 +11,9 @@
 		}	
 		var $APP_PATH;
 		var $db_host = "localhost"; //nazwa hosta
-		var $db_name = "01357044_ch"; //database name
-		var $db_user = "01357044_ch"; //nazwa bazy danych
-		var $db_pass = "V;7mNPNN&tv1"; //dhasło użytkownika bazy danych
+		var $db_name = ""; //database name
+		var $db_user = ""; //nazwa bazy danych
+		var $db_pass = ""; //dhasło użytkownika bazy danych
 	}
 
 	$config = new Configuration();
